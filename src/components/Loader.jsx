@@ -13,7 +13,7 @@ const Loader = ({content}) => {
         aria-hidden="true">
           
         </Spinner>
-        <span className='loader-text'>Update in progress. Please wait for a moment...</span>
+        <span className='loader-text'>Fetching latest answer. Please wait for a moment...</span>
         </div>
     </div>
   )
